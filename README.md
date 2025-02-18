@@ -20,7 +20,7 @@ This is a simple Employee Management API that allows you to manage employee data
 ## 4. Delete All Employee
 - Delete all employees stored in the database.
 
-![Delete All Employee](demo/picture/delete/.png)
+![Delete All Employee](demo/picture/delete.png)
 
 ### Check Result After Deletion
 - After deleting all employees, you can verify that the employee list is empty by calling the **Find All Employee List** endpoint.
