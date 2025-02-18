@@ -5,7 +5,7 @@ This is a simple Employee Management API that allows you to manage employee data
 ## 1. Save Employee Data
 - This functionality allows you to add employee data to the database.
 
-![Save Employee Data](erp_app_dev-s_homework/demo/picture/add.png)
+![Save Employee Data](demo/picture/add.png)
 
 ## 2. Find All Employee List
 - Retrieve a list of all employees stored in the database.
