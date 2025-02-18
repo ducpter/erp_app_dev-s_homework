@@ -5,7 +5,7 @@ This is a simple Course Management API that allows you to manage course data. Th
 ## 1. Creating a Course
 - This functionality allows you to add a new course to the database.
 
-![Creating a Course](spring_mvc/picture/dangky.png)
+![Creating a Course](picture/dangky.png)
 
 ## 2. Reading Courses
 - View a list of all available courses.
