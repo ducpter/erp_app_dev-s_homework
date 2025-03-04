@@ -14,28 +14,28 @@
 
 ### Welcome Page
 
-![UserProfile.png](demo\src\main\resources\img\WelcomePage.png)
+![UserProfile.png](demo/picture/WelcomePage.png)demo/picture/AccountListWithAdminJWT.png
 
 ### Register a New User
 
-![Register.png](demo\src\main\resources\img\Register.png)
+![Register.png](demo/picture/Register.png)
 
 ### Login and Get JWT Token
 
-![Login.png](demo\src\main\resources\img\Login.png)
+![Login.png](demo/picture/Login.png)
 
 ### User Profile
 
-![UserProfile.png](demo/src/main/resources/img/UserProfilewithJWT.png)
+![UserProfile.png](demo/picture/UserProfilewithJWT.png)
 
 ### Account List with JWT 
 
-![AdminProfile.png](demo/src/main/resources/img/AccountListWithAdminJWT.png)
+![AdminProfile.png](demo/picture/AccountListWithAdminJWT.png)
 
 ### Update Account with JWT
 
-![AdminProfile.png](demo/src/main/resources/img/UpdateAccount.png)
+![AdminProfile.png](demo/picture/UpdateAccount.png)
 
 ### Delete Account with JWT
 
-![AdminProfile.png](demo/src/main/resources/img/DeleteAccount.png)
+![AdminProfile.png](demo/picture/DeleteAccount.png)
