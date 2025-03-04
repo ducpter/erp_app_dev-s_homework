@@ -18,7 +18,7 @@
 
 ### Generate Token
 
-![Generate Token](demo/src/main/resources/img/GenerateToken.png)
+![Generate Token](demo/src/main/resources/img/generateToken.png)
 
 ### User Welcome Page With JWT
 
