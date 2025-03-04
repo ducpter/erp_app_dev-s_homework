@@ -14,28 +14,28 @@
 
 ### Welcome Page
 
-![UserProfile.png](demo/picture/WelcomePage.png)demo/picture/AccountListWithAdminJWT.png
+![UserProfile.png](securing-web-springboot/demo/src/main/resources/img/WelcomePage.png)
 
 ### Register a New User
 
-![Register.png](demo/picture/Register.png)
+![Register.png](securing-web-springboot/demo/src/main/resources/img/Register.png)
 
 ### Login and Get JWT Token
 
-![Login.png](demo/picture/Login.png)
+![Login.png](securing-web-springboot/demo/src/main/resources/img/Login.png)
 
 ### User Profile
 
-![UserProfile.png](demo/picture/UserProfilewithJWT.png)
+![UserProfile.png](securing-web-springboot/demo/src/main/resources/img/UserProfilewithJWT.png)
 
 ### Account List with JWT 
 
-![AdminProfile.png](demo/picture/AccountListWithAdminJWT.png)
+![AdminProfile.png](securing-web-springboot/demo/src/main/resources/img/AccountListWithAdminJWT.png)
 
 ### Update Account with JWT
 
-![AdminProfile.png](demo/picture/UpdateAccount.png)
+![AdminProfile.png](securing-web-springboot/demo/src/main/resources/img/UpdateAccount.png)
 
 ### Delete Account with JWT
 
-![AdminProfile.png](demo/picture/DeleteAccount.png)
+![AdminProfile.png](securing-web-springboot/demo/src/main/resources/img/DeleteAccount.png)
