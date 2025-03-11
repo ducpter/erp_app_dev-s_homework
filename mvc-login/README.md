@@ -12,10 +12,10 @@ This sample demonstrates:
 
 ## Evidence of SSO:
 ### External Interface:
-![b1](pic\1.png)
+![b1](mvc-login/pic/1.png)
 ### Login Interface:
-![b2](pic\2.png)
-![b3](pic\3.png)
+![b2](mvc-login/pic/2.png)
+![b3](mvc-login/pic/3.png)
 ### Post-Login Interface:
-![b4](pic\4.png)
-![b5](pic\5.png)
+![b4](mvc-login/pic/4.png)
+![b5](mvc-login/pic/5.png)
