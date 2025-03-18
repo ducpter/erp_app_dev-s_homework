@@ -23,7 +23,7 @@ docker push your-dockerhub-username/docker-example
 
 docker run -p 8080:8080 docker-example
 
-Ứng dụng sẽ khả dụng tại địa chỉ [http://localhost:3000](http://localhost:3000/).
+Ứng dụng sẽ khả dụng tại địa chỉ [http://localhost:8080](http://localhost:8080/).
 
 Kết quả
 
